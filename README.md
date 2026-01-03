@@ -1,6 +1,6 @@
 # 🐕🐎 Shiba On a Horse — USD1 Flywheel
 
-![Shiba On a Horse](./shibaonh.png)
+![Shiba On a Horse](shibaonh.png)
 
 **Shiba On a Horse USD1 Flywheel** is a meme-native, mechanism-driven value loop built on the USD1 narrative.
 
@@ -173,3 +173,4 @@ If attention persists, the flywheel spins.
 **馬上發財**  
 **Shiba On a Horse**  
 **USD1 Flywheel**
+
